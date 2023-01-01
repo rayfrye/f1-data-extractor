@@ -1,0 +1,28 @@
+"""
+https://livetiming.formula1.com/static/2022/2022-10-23_United_States_Grand_Prix/2022-10-23_Race/
+
+Valuable
+[X] SessionData.json
+    [X] Series
+    [X] TrackStatus
+[X] SessionInfo.json
+[X] DriverList.jsonStream
+[X] RaceControlMessages.json
+[X] TimingAppData.jsonStream
+[X] TrackStatus.jsonStream
+[X] WeatherData.jsonStream
+[X] Position.z.jsonStream
+[X] CarData.z.jsonStream
+[ ] TimingData.jsonStream
+[X] LapCount.jsonStream
+
+Eh
+[ ] ArchiveStatus.json
+[ ] Heartbeat.jsonStream
+[ ] AudioStreams.jsonStream
+[ ] ExtrapolatedClock.jsonStream
+[ ] SessionStatus.jsonStream
+[ ] TeamRadio.jsonStream
+[ ] TimingStats.jsonStream
+[ ] ContentStreams.jsonStream
+[ ] ChampionshipPrediction.jsonStream
