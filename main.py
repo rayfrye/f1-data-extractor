@@ -11,8 +11,11 @@ from livetiming.weatherdata import *
 from livetiming.lapcount import *
 
 BaseURL = 'https://livetiming.formula1.com/static'
+#The year you want to pull data for
 Year = '2022'
+#The race id - not sure if there's a good way to get a comprehensive list of these
 RaceID = '2022-10-23_United_States_Grand_Prix'
+#There is also data for qualifying, and practice sessions I think
 RaceSession = '2022-10-23_Race'
 OutputLocation = './output/'
 
